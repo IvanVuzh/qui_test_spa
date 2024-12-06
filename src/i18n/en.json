@@ -1,0 +1,22 @@
+{
+  "search": {
+    "weatherSearch": "Weather Search",
+    "enterCity": "Enter City",
+    "getWeather": "Get Weather",
+    "weatherData": {
+      "temperature": "Temperature",
+      "weather": "Weather",
+      "humidity": "Humidity",
+      "windSpeed": "Wind Speed"
+    }
+  },
+  "history": { 
+    "title": "Search History", 
+    "cityName": "City Name", 
+    "queryDate": "Query Date", 
+    "weatherData": "Weather Data"
+  },
+  "common": {
+    "cityNotFound": "City not found"
+  }
+}
